@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Website on Github</title>
+    <link>https://DanRandom.github.io/</link>
+    <description>Recent content on First Website on Github</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Sep 2024 16:12:22 +0300</lastBuildDate>
+    <atom:link href="https://DanRandom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://DanRandom.github.io/about/</link>
+      <pubDate>Tue, 10 Sep 2024 16:12:22 +0300</pubDate>
+      <guid>https://DanRandom.github.io/about/</guid>
+      <description>&lt;p&gt;Something about this page seems weird.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SomeInformation</title>
+      <link>https://DanRandom.github.io/posts/secondpage/</link>
+      <pubDate>Tue, 10 Sep 2024 16:05:00 +0300</pubDate>
+      <guid>https://DanRandom.github.io/posts/secondpage/</guid>
+      <description>&lt;p&gt;In this page we can see some information. I&amp;rsquo;m not sure what can be written here, so this text is just a placeholder.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
